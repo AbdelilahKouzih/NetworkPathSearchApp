@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><schema>
+	<element mysql_db="etl" mysql_password="anoirzerrik2003" mysql_user="root" orcl_password="anouarzerrik2003" orcl_user="system">
+  </element>
+</schema>

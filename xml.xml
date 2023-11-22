@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><schema>
+	<element id="_1" name="anouarzerrik">test name1
+  </element>
+	<element id="2" name="name_ele2">test name2
+  </element>
+	<element id="_3" name="name_ele2">test name3
+  </element>
+</schema>
